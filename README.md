@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @TCXiong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tiancheng
+- 🌱 I’m currently learning data programming, computer graphics, basic AI
+- 📫 Contact me: txiong53@wisc.edu
 
-<!---
-TCXiong/TCXiong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCXiong)](https://github.com/anuraghazra/github-readme-stats)
